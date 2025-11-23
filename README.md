@@ -1,4 +1,4 @@
-# alx-project-2
+# alx-project-0x03-setup
 
 A Next.js project scaffolded with **TypeScript**, **Tailwind CSS**, and **ESLint**, following ALX advanced tasks and structured component-driven development.  
 This project includes component architecture, page layouts, dynamic buttons, a listing page, and reusable UI elements.
@@ -29,4 +29,5 @@ The goal of this project is to learn and practice:
 
 
 ## 📁 Folder Structure
+
 
